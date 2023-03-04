@@ -8,7 +8,7 @@ Those resources and tools are intended only for cybersecurity professionals and 
 
 ## ⁍ 𝐓𝐚𝐛𝐥𝐞 𝐨𝐟 𝐂𝐨𝐧𝐭𝐞𝐧𝐭𝐬
 
-> [1. Massive Online Open Courses](#Massive Online Open Courses)
+> [1. Massive-Online-Open-Courses](#Massive Online Open Courses)
 > [2. Academic Courses](#Academic Courses)
 > [3. Laboratories](#Laboratories)
 > [4. Capture the Flag](#Capture the Flag)
