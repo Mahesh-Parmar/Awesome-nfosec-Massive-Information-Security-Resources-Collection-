@@ -8,7 +8,7 @@ Those resources and tools are intended only for cybersecurity professionals and 
 
 ## ⁍ 𝐓𝐚𝐛𝐥𝐞 𝐨𝐟 𝐂𝐨𝐧𝐭𝐞𝐧𝐭𝐬
 
-> [1. Massive-Online-Open-Courses](#Massive-Online-Open-Courses)
+> [1. Massive Online Open Courses](#Massive-Online-Open-Courses)
 > [2. Academic Courses](#Academic Courses)
 > [3. Laboratories](#Laboratories)
 > [4. Capture the Flag](#Capture the Flag)
@@ -19,7 +19,7 @@ Those resources and tools are intended only for cybersecurity professionals and 
 > [9. Related Awesome Lists](#Related Awesome Lists)
 > [10. Contributing](#Contributing)
 
-## Massive-Online-Open-Courses
+## Massive Online Open Courses
 
 ### Stanford University - Computer Security
 > In this class you will learn how to design secure systems and write secure code. You will learn how to find vulnerabilities in code and how to design software 
