@@ -6,9 +6,9 @@ A curated list of awesome information security resources, inspired by the awesom
 
 Those resources and tools are intended only for cybersecurity professionals and educational use in a controlled environment.
 
-Table of Contents
+## ⁍ 𝐓𝐚𝐛𝐥𝐞 𝐨𝐟 𝐂𝐨𝐧𝐭𝐞𝐧𝐭𝐬
 
-> [Massive Online Open Courses](#Massive Online Open Courses)
+> [1. Massive Online Open Courses](#Massive Online Open Courses)
 > [2. Academic Courses](#Academic Courses)
 > [3. Laboratories](#Laboratories)
 > [4. Capture the Flag](#Capture the Flag)
@@ -20,6 +20,7 @@ Table of Contents
 > [10. Contributing](#Contributing)
 
 ## Massive Online Open Courses
+
 ### Stanford University - Computer Security
 > In this class you will learn how to design secure systems and write secure code. You will learn how to find vulnerabilities in code and how to design software 
 > systems that limit the impact of security vulnerabilities. We will focus on principles for building secure systems and give many real world examples.
