@@ -23,4 +23,4 @@ Those resources and tools are intended only for cybersecurity professionals and 
 ### Stanford University - Computer Security
 In this class you will learn how to design secure systems and write secure code. You will learn how to find vulnerabilities in code and how to design software systems that limit the impact of security vulnerabilities. We will focus on principles for building secure systems and give many real world examples.
 
-..* [Stanford University - Computer Security](https://www.coursera.org/learn/security)
+  [Stanford University - Computer Security](https://www.coursera.org/learn/security)
