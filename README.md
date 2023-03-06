@@ -120,16 +120,22 @@ Those resources and tools are intended only for cybersecurity professionals and 
 >
 > - [CNIT 124 - Advanced Ethical Hacking 1](https://samsclass.info/124/124_F15.shtml)
 >   Advanced techniques of defeating computer security, and countermeasures to protect Windows and Unix/Linux systems. Hands-on labs include Google hacking, automated footprinting, sophisticated ping and port scans, privilege escalation, attacks against telephone and Voice over Internet Protocol (VoIP) systems, routers, firewalls, wireless devices, Web servers, and Denial of Service attacks.
+>   
 > - [CNIT 126 - Practical Malware Analysis](https://samsclass.info/126/126_S16.shtml)
 >   Learn how to analyze malware, including computer viruses, trojans, and rootkits, using disassemblers, debuggers, static and dynamic analysis, using IDA Pro, OllyDbg and other tools.
+>   
 > - [CNIT 127 - Exploit Development](https://samsclass.info/127/127_S17.shtml)
 >   Learn how to find vulnerabilities and exploit them to gain control of target systems, including Linux, Windows, Mac, and Cisco. This class covers how to write tools, not just how to use them; essential skills for advanced penetration testers and software security professionals.
+>   
 > - [CNIT 128 - Hacking Mobile Devices](https://samsclass.info/128/128_S17.shtml)
-Mobile devices such as smartphones and tablets are now used for making purchases, emails, social networking, and many other risky activities. These devices run specialized operating systems have many security problems. This class will cover how mobile operating systems and apps work, how to find and exploit vulnerabilities in them, and how to defend them. Topics will include phone call, voicemail, and SMS intrusion, jailbreaking, rooting, NFC attacks, malware, browser exploitation, and application vulnerabilities. Hands-on projects will include as many of these activities as are practical and legal.
+>   Mobile devices such as smartphones and tablets are now used for making purchases, emails, social networking, and many other risky activities. These devices run specialized operating systems have many security problems. This class will cover how mobile operating systems and apps work, how to find and exploit vulnerabilities in them, and how to defend them. Topics will include phone call, voicemail, and SMS intrusion, jailbreaking, rooting, NFC attacks, malware, browser exploitation, and application vulnerabilities. Hands-on projects will include as many of these activities as are practical and legal.
+>   
 > - [CNIT 129S: Securing Web Applications](https://samsclass.info/129S/129S_F16.shtml)
 >   Techniques used by attackers to breach Web applications, and how to protect them. How to secure authentication, access, databases, and back-end components. How to protect users from each other. How to find common vulnerabilities in compiled code and source code.
+>   
 > - [CNIT 140: IT Security Practices](https://samsclass.info/140/140_F16.shtml)
 Training students for cybersecurity competitions, including CTF events and the [Collegiate Cyberdefense Competition (CCDC)](http://www.nationalccdc.org/). This training will prepare students for employment as security professionals, and if our team does well in the competitions, the competitors will gain recognition and respect which should lead to more and better job offers.
+>
 > - [Violent Python and Exploit Development](https://samsclass.info/127/127_WWC_2014.shtml)
 >   In the exploit development section, students will take over vulnerable systems with simple Python scripts.
 
