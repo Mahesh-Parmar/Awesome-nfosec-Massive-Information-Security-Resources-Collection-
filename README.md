@@ -8,25 +8,25 @@ Those resources and tools are intended only for cybersecurity professionals and 
 
 ## ⁍ 𝐓𝐚𝐛𝐥𝐞 𝐨𝐟 𝐂𝐨𝐧𝐭𝐞𝐧𝐭𝐬
 
-> - [1. Massive Online Open Courses](#Massive-Online-Open-Courses)
+> [1. Massive Online Open Courses](#Massive-Online-Open-Courses)
 > 
-> - [2. Academic Courses](#Academic-Courses)
+> [2. Academic Courses](#Academic-Courses)
 > 
-> - [3. Laboratories](#Laboratories)
+> [3. Laboratories](#Laboratories)
 > 
-> - [4. Capture the Flag](#Capture-the-Flag)
+> [4. Capture the Flag](#Capture-the-Flag)
 > 
-> - [5. Open Security Books](#Open-Security-Books)
+> [5. Open Security Books](#Open-Security-Books)
 > 
-> - [6. Challenges](#Challenges)
+> [6. Challenges](#Challenges)
 > 
-> - [7. Documentation](#Documentation)
+> [7. Documentation](#Documentation)
 > 
-> - [8. SecurityTube Playlists](#SecurityTube-Playlists)
+> [8. SecurityTube Playlists](#SecurityTube-Playlists)
 > 
-> - [9. Related Awesome Lists](#Related-Awesome-Lists)
+> [9. Related Awesome Lists](#Related-Awesome-Lists)
 > 
-> - [10. Contributing](#Contributing)
+> [10. Contributing](#Contributing)
 
 ## Massive Online Open Courses
 
